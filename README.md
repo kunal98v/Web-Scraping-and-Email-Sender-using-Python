@@ -1,1 +1,1 @@
-# Web-Scrapingand Email Sender-using-Python
+# Web-Scraping-and-Email-Sender-using-Python
